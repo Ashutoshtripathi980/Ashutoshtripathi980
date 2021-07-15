@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ fact: I love to write code
 
-### Connect with me on Youtube and Discord
+### Connect with me :
 
 Discord Link : https://discord.gg/8sJypzvg
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Ashutosh - [Ashutoshtripathi][youtube] 👋
+### Hi there, I'm Ashutosh - Ashutoshtripathi
 
 ## I'm a Student and Developer!!
 

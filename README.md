@@ -1,4 +1,4 @@
-### Hi there, I'm Ashutosh - Ashutoshtripathi
+### Hi there, I'm Ashutosh - Ashutosh Tripathi
 
 ## I'm a Student and Developer!!
 

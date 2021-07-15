@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Flutter and Android Application Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -11,6 +11,10 @@
 ### Connect with me on Youtube and Discord
 
 Discord Link : https://discord.gg/8sJypzvg
+
+YouTube Link : https://youtube.com/channel/UCRT0JzZv6aJlTcY5jhw73pg
+
+LinkedIn Profile : https://www.linkedin.com/in/ashut1998/
 
 Youtube - [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 LinedIn - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

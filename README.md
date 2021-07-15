@@ -16,6 +16,6 @@ YouTube Link : https://youtube.com/channel/UCRT0JzZv6aJlTcY5jhw73pg
 
 LinkedIn Profile : https://www.linkedin.com/in/ashut1998/
 
-Email : iashu9193363310@mail.com
+Email : iashu9193363310@gmail.com
 <br />
 -----------

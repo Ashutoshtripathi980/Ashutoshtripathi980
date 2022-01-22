@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 Flutter and Android Application Developer
+- 🔭 Flutter, Android Application Developer and Website developer ( Full stack Developer )
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ fact: I love to write code
 
 ### Connect with me :

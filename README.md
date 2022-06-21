@@ -24,6 +24,7 @@
 ## Connect with me :
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
 LeetCode : https://leetcode.com/BrokenCentury/ 
 
 Discord Link : https://discord.gg/8sJypzvg
@@ -37,6 +38,7 @@ Email : iashu9193363310@gmail.com
 <br />
 
 <summary>📝 Play-Store Applications </summary>
+<br />
 
 
 1 - DEALFAIR - https://play.google.com/store/apps/details?id=com.ashutosh.dealfair

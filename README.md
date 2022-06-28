@@ -29,7 +29,7 @@ LeetCode : https://leetcode.com/BrokenCentury/
 
 Discord Link : https://discord.gg/8sJypzvg
 
-YouTube Link : https://youtube.com/channel/UCRT0JzZv6aJlTcY5jhw73pg
+Portfolio Link : https://ashutoshtripathi980.github.io/About_Ashutosh/
 
 LinkedIn Profile : https://www.linkedin.com/in/ashut1998/
 

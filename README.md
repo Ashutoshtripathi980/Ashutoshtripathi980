@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashutosh - Ashutosh Tripathi
 
-## I'm a Student and Developer!!
+## I'm a Full Stack Developer!!
 
 - 🔭 Flutter, Node js , Android Application Developer and Website developer ( Full stack Developer )
 - 🌱 I’m currently learning everything 🤣

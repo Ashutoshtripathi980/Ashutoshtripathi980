@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer!!
 
-- 🔭 Flutter, Node js , Android Application Developer and Website developer ( Full stack Developer )
+- 🔭 Flutter, Node js , Android Application Developer and Website developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects

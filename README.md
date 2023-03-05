@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 🎮 COD Modern Warfare 1 Multiplayer
+- 🎮 Valorant Competitive Multiplayer
 - ⚡ fact: I love to write code
 
 <div align="center">
@@ -49,9 +49,9 @@ Email : iashu9193363310@gmail.com
 
 4 - FAMILOV  - https://play.google.com/store/apps/details?id=com.familovapp.familov
 
-5 - Anaaj    - https://play.google.com/store/search?q=anaaj&c=apps
+5 - ANAAJ    - https://play.google.com/store/search?q=anaaj&c=apps
 
-6 - Shop     - https://play.google.com/store/apps/details?id=com.ashutosh.shoppingapp
+6 - SHOPME     - https://play.google.com/store/apps/details?id=com.ashutosh.shoppingapp
 
 <br>
 

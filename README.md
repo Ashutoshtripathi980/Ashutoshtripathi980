@@ -1,5 +1,9 @@
 ### Hi there, I'm Ashutosh - Ashutosh Tripathi
 
+⚠️ Confidentiality Notice: Several repositories are kept private due to the inclusion of sensitive business logic and proprietary AI implementations.
+
+Visit official portfolio -> https://ashutoshtripathi-tech.vercel.app/
+
 ## I'm a Full Stack Developer!!
 
 - 🔭 Flutter, Node js , Android Application Developer and Website developer

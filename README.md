@@ -1,4 +1,5 @@
 ### Hi there, I'm Ashutosh - Ashutosh Tripathi
+Remember - Many repo are private as it contain sensitive infor and AI code.
 
 ## I'm a Full Stack Developer!!
 

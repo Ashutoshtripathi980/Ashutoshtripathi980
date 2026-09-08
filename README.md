@@ -2,7 +2,7 @@
 
 # Ashutosh Tripathi
 
-### Technical Lead &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; AI Agents
+### Technical Lead &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; AI Engineer
 
 **I lead engineering teams that ship production mobile, web and AI products — and I stay hands-on across the stack.**
 

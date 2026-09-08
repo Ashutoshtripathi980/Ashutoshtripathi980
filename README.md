@@ -174,17 +174,6 @@ Mobile is where users see the work; the backend is where it has to hold up.
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutoshtripathi980&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats for Ashutoshtripathi980" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshtripathi980&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages for Ashutoshtripathi980" />
-
-</div>
-
----
-
 ## Connect
 
 Hiring for a Technical Lead or engineering leadership role, or want to talk Flutter, Node.js or AI agents? Email is the fastest way to reach me.
@@ -200,16 +189,6 @@ Hiring for a Technical Lead or engineering leadership role, or want to talk Flut
 | **Discord**           | [Join the server](https://discord.gg/8sJypzvg)                                                             |
 
 ---
-
-## About this repository
-
-`folio` is the Flutter application behind my live portfolio, targeting web, desktop and mobile from one codebase: **Home · About · Services · Portfolio · Contact**.
-
-```bash
-flutter pub get
-flutter run -d chrome                                    # local preview
-flutter build web --release --base-href /About_Ashutosh/ # production build for GitHub Pages
-```
 
 Licensed under **MIT** — see [LICENSE](LICENSE.md). If this repository helped you, a star is appreciated.
 
